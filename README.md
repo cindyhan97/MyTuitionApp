@@ -1,2 +1,3 @@
-# MyTuitionApp
-The php webpages with full-auto matching systems
+﻿# MyTuitionApp
+ 
+ Deployed on Heroku: http://mytuitionapp.herokuapp.com/
